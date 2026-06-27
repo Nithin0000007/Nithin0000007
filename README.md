@@ -24,7 +24,7 @@
 ✓  Scalable APIs            →  REST + microservices, shared Node.js / Go schemas
 ```
 
-3 years of production software. Former CTO of a healthcare tech startup — designed the architecture, hired the team, shipped the product. Now building distributed systems and targeting remote-first engineering roles.
+3 years of production software. Former CTO of a healthcare tech startup - designed the architecture, hired the team, shipped the product. Now building distributed systems and targeting remote-first engineering roles.
 
 ---
 
